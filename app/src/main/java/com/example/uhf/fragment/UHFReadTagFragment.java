@@ -338,7 +338,7 @@ public class UHFReadTagFragment extends KeyDwonFragment {
             } else if (checkedId == RbInventoryLoop.getId()) {
                 // 单标签循环识别
                 inventoryFlag = 1;
-                cbFilter.setVisibility(View.VISIBLE);
+                cbFilter.setVisibility(View.INVISIBLE);
             }
         }
     }

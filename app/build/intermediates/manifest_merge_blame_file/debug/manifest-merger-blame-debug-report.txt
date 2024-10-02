@@ -42,8 +42,8 @@
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.1.0-beta01] C:\Users\acer7\.gradle\caches\transforms-3\3fb4f5c0a836e637bf50328d0c04f977\transformed\core-1.1.0-beta01\AndroidManifest.xml:22:18-86
 23        android:debuggable="true"
-24        android:icon="@drawable/ic_launcher"
-24-->C:\Users\acer7\Downloads\uhf-uart-demo\uhf-uart-demo\app\src\main\AndroidManifest.xml:13:9-45
+24        android:icon="@drawable/logo"
+24-->C:\Users\acer7\Downloads\uhf-uart-demo\uhf-uart-demo\app\src\main\AndroidManifest.xml:13:9-38
 25        android:label="@string/app_name"
 25-->C:\Users\acer7\Downloads\uhf-uart-demo\uhf-uart-demo\app\src\main\AndroidManifest.xml:14:9-41
 26        android:testOnly="true"

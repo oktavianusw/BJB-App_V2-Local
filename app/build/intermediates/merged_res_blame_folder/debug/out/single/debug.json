@@ -1,298 +1,302 @@
 [
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_text.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\text.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_popwindow_filter.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/popwindow_filter.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_phone.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\phone.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_up2.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_up2.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_pop_menu_bg.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/pop_menu_bg.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg2.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg2.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_check_text_color.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/check_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_webtext.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\webtext.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_rectangle_bg.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/rectangle_bg.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_block_permalock.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_block_permalock.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/menu_main.xml.flat",
+        "source": "com.example.uhf.app-main-15:/menu/main.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_blank.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_blank.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_gray.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_gray.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-hdpi_close.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-hdpi\\close.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_triangle.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/triangle.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\menu_main.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\menu\\main.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_menu_bg_selected.9.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/menu_bg_selected.9.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_popwindow_filter.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\popwindow_filter.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_main.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_main.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_gray.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_gray.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_rardar_view.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/rardar_view.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-hdpi_webtext.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-hdpi\\webtext.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_item_text1.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/item_text1.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_triangle.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\triangle.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_video.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/video.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_listtag_items.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\listtag_items.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_audio.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/audio.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_light_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_light_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_block_write.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_block_write.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_shape_seekbar_circle.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\shape_seekbar_circle.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/anim_grow_from_topleft_to_bottomright.xml.flat",
+        "source": "com.example.uhf.app-main-15:/anim/grow_from_topleft_to_bottomright.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\ic_launcher.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_rectangle_bg2.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/rectangle_bg2.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_audio.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\audio.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_read_fragment.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_read_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_down.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_down.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_up.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_up.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_up3.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_up3.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_lock_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_lock_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_down2.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_down2.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_kill_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_kill_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_uhf_radar_location.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_uhf_radar_location.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\anim_slide_right_out.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\anim\\slide_right_out.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_uhf_radar_location.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_uhf_radar_location.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_seekbar_bg.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/seekbar_bg.xml"
+    },
+    {
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-hdpi_close.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_text.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/text.png"
+    },
+    {
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_check_text_color2.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/check_text_color2.xml"
+    },
+    {
+        "merged": "com.example.uhf.app-merged_res-13:/layout_listtag_items.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/listtag_items.xml"
     },
     {
         "merged": "com.example.uhf.app-merged_res-13:/drawable_button_rounded.xml.flat",
         "source": "com.example.uhf.app-main-15:/drawable/button_rounded.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_card_normal.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\card_normal.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/anim_slide_right_out.xml.flat",
+        "source": "com.example.uhf.app-main-15:/anim/slide_right_out.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\raw_serror.ogg.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\raw\\serror.ogg"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_temperature.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_temperature.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\anim_slide_left_out.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\anim\\slide_left_out.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_kill_fragment.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_kill_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_down2.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_down2.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg2.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg2.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_check_text_color.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\check_text_color.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_uhflocation.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_uhflocation.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_seekbar_bg.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\seekbar_bg.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_dialog_frequency.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_dialog_frequency.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\anim_grow_from_topleft_to_bottomright.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\anim\\grow_from_topleft_to_bottomright.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/anim_slide_left_out.xml.flat",
+        "source": "com.example.uhf.app-main-15:/anim/slide_left_out.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_read_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_read_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_actionbar_back.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/actionbar_back.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_shape_seekbar_circle.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/shape_seekbar_circle.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/raw_barcodebeep.ogg.flat",
+        "source": "com.example.uhf.app-main-15:/raw/barcodebeep.ogg"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_main.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_main.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_item_list_goods_show_list_bg.9.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/item_list_goods_show_list_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_menu_bg_selected.9.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\menu_bg_selected.9.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_up3.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_up3.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_rardar_view.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\rardar_view.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/raw_serror.ogg.flat",
+        "source": "com.example.uhf.app-main-15:/raw/serror.ogg"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_dialog_lock_code.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_dialog_lock_code.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_light_fragment.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_light_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_rectangle_bg.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\rectangle_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_card_press.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\card_press.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_item_list_goods_show_list_bg.9.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\item_list_goods_show_list_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_goroot.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\goroot.png"
-    },
-    {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\activity_main.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_blank.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_blank.xml"
     },
     {
         "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_readtag_fragment.xml.flat",
         "source": "com.example.uhf.app-main-15:/layout/uhf_readtag_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_rectangle_bg2.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\rectangle_bg2.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_down3.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_down3.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_temperature.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_temperature.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg3.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg3.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_readtag_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_readtag_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_deactivate.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_deactivate.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_uponelevel.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\uponelevel.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_rb_bg.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/rb_bg.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_uhfupgrade.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_uhfupgrade.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_packed.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/packed.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_video.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\video.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_lock_fragment.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_lock_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_up.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_up.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_dialog_lock_code.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_dialog_lock_code.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\raw_barcodebeep.ogg.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\raw\\barcodebeep.ogg"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_uhf_write_fragment.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/uhf_write_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_pop_menu_bg.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\pop_menu_bg.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_webtext.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/webtext.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_uhflocation.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_uhflocation.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-hdpi_webtext.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-hdpi/webtext.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_activity_uhfset.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\activity_uhfset.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/anim_slide_left_in.xml.flat",
+        "source": "com.example.uhf.app-main-15:/anim/slide_left_in.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_deactivate.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_deactivate.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_phone.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/phone.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_dialog_frequency.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_dialog_frequency.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_uhfupgrade.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_uhfupgrade.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg3.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg3.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_up2.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_up2.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_packed.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\packed.png"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_fragment_block_permalock.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/fragment_block_permalock.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-hdpi\\ic_launcher.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_folder.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/folder.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_rb_bg.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\rb_bg.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/layout_activity_uhfset.xml.flat",
+        "source": "com.example.uhf.app-main-15:/layout/activity_uhfset.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_uhf_write_fragment.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\uhf_write_fragment.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_card_press.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/card_press.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_button_bg_down3.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\button_bg_down3.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_item_text1.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\item_text1.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_uponelevel.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/uponelevel.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_folder.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\folder.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_card_normal.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/card_normal.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\layout_fragment_block_write.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\layout\\fragment_block_write.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/anim_slide_right_in.xml.flat",
+        "source": "com.example.uhf.app-main-15:/anim/slide_right_in.xml"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_image.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\image.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_goroot.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/goroot.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_actionbar_back.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\actionbar_back.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_paste.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/paste.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\anim_slide_left_in.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\anim\\slide_left_in.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_logo_white.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/logo_white.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable-mdpi_paste.png.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable-mdpi\\paste.png"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_image.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/image.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\drawable_check_text_color2.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\drawable\\check_text_color2.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_logo.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/logo.png"
     },
     {
-        "merged": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-merged_res-13:\\anim_slide_right_in.xml.flat",
-        "source": "C:\\Users\\acer7\\.gradle\\daemon\\7.4\\com.example.uhf.app-main-15:\\anim\\slide_right_in.xml"
+        "merged": "com.example.uhf.app-merged_res-13:/drawable_button_bg_down.xml.flat",
+        "source": "com.example.uhf.app-main-15:/drawable/button_bg_down.xml"
+    },
+    {
+        "merged": "com.example.uhf.app-merged_res-13:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.uhf.app-main-15:/drawable-mdpi/ic_launcher.png"
     }
 ]
